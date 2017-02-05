@@ -6,7 +6,7 @@ let sinonChai = require('sinon-chai')
 
 chai.use(sinonChai)
 
-let LOLOG = require('../lib/log.js')
+let LOLOG = require('../lib/lolog.js')
 
 describe('Console log wrapper', () => {
   beforeEach(() => {

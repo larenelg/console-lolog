@@ -2,7 +2,7 @@
   "name": "console-lolog",
   "version": "1.0.0",
   "description": "A `console.log` wrapper to rule them all",
-  "main": "index.js",
+  "main": "lib/lolog.js",
   "directories": {
     "test": "test"
   },
