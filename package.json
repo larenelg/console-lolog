@@ -1,0 +1,20 @@
+{
+  "name": "console-lolog",
+  "version": "1.0.0",
+  "description": "A `console.log` wrapper to rule them all",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test"
+  },
+  "author": "larenelg",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "sinon": "^1.17.7",
+    "sinon-chai": "^2.8.0"
+  }
+}
